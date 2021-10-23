@@ -1,0 +1,15 @@
+C:\desaplmov\ContadorManual\ContadorManual\ContadorManual\bin\Debug\netstandard2.0\ContadorManual.deps.json
+C:\desaplmov\ContadorManual\ContadorManual\ContadorManual\bin\Debug\netstandard2.0\ContadorManual.dll
+C:\desaplmov\ContadorManual\ContadorManual\ContadorManual\bin\Debug\netstandard2.0\ref\ContadorManual.dll
+C:\desaplmov\ContadorManual\ContadorManual\ContadorManual\bin\Debug\netstandard2.0\ContadorManual.pdb
+C:\desaplmov\ContadorManual\ContadorManual\ContadorManual\obj\Debug\netstandard2.0\ContadorManual.csproj.AssemblyReference.cache
+C:\desaplmov\ContadorManual\ContadorManual\ContadorManual\obj\Debug\netstandard2.0\ContadorManual.GeneratedMSBuildEditorConfig.editorconfig
+C:\desaplmov\ContadorManual\ContadorManual\ContadorManual\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\desaplmov\ContadorManual\ContadorManual\ContadorManual\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\desaplmov\ContadorManual\ContadorManual\ContadorManual\obj\Debug\netstandard2.0\ContadorManual.AssemblyInfoInputs.cache
+C:\desaplmov\ContadorManual\ContadorManual\ContadorManual\obj\Debug\netstandard2.0\ContadorManual.AssemblyInfo.cs
+C:\desaplmov\ContadorManual\ContadorManual\ContadorManual\obj\Debug\netstandard2.0\ContadorManual.csproj.CoreCompileInputs.cache
+C:\desaplmov\ContadorManual\ContadorManual\ContadorManual\obj\Debug\netstandard2.0\XamlC.stamp
+C:\desaplmov\ContadorManual\ContadorManual\ContadorManual\obj\Debug\netstandard2.0\ContadorManual.dll
+C:\desaplmov\ContadorManual\ContadorManual\ContadorManual\obj\Debug\netstandard2.0\ref\ContadorManual.dll
+C:\desaplmov\ContadorManual\ContadorManual\ContadorManual\obj\Debug\netstandard2.0\ContadorManual.pdb
